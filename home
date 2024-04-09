@@ -1,1 +1,46 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .heading1 {
+            color: green;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 50px;
+            font-family: 'Anonymous Pro', monospace;
+        }
+        .heading2 {
+            color: black;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 100px;
+            font-size: 36px; /* Increased font size */
+        }
+        .image-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="heading1">Gotchaaaaa !!! Flag : <span style="color: green;">CSC{I_L1ke_MY_HOmE}</span></h1>
+    <h2 class="heading2">s4f3tY fIRSt Be a7 Y0UR homE</h2>
+    <div class="image-container">
+        <img src="https://i.ibb.co/hFJC8Tb/maxresdefault.jpg" alt="Home Image">
+    </div>
+</body>
+</html>
